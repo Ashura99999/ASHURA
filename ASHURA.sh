@@ -34,7 +34,7 @@
     red='\e[1;31m'
 
 
-    figlet TOOLS ASHURA | lolcat
+    figlet T-X ASHURA | lolcat
 
     echo -e  "TOOLS    : ASHURA $white         
 
